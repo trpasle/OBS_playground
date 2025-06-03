@@ -1,4 +1,4 @@
-Name:       hello-world
+Name:       OBS_playground
 Version:    1
 Release:    1
 Summary:    Most simple RPM package
