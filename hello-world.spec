@@ -1,5 +1,5 @@
 Name:       OBS_playground
-Version:    1
+Version:    main
 Release:    1
 Summary:    Most simple RPM package
 License:    FIXME
