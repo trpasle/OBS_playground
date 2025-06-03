@@ -3,7 +3,7 @@ Version:    main
 Release:    1
 Summary:    Most simple RPM package
 License:    FIXME
-Source:     OBS_playground-1+git.tar
+Source:     OBS_playground-%{version}.tar
 
 %description
 
