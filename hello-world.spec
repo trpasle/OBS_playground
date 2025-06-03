@@ -6,10 +6,9 @@ License:    FIXME
 Source:     hello.sh
 
 %description
-This is my first RPM package, which does nothing.
 
 %prep
-# we have no source, so nothing here
+%setup -q
 
 %build
 
