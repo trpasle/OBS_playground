@@ -3,7 +3,7 @@ Version:    1
 Release:    1
 Summary:    Most simple RPM package
 License:    FIXME
-Source:     OBS_playground-%version.tar
+Source:     hello.sh
 
 %description
 
