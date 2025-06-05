@@ -18,5 +18,3 @@ install -m 755 hello.sh %{buildroot}/usr/bin/hello.sh
 
 %files
 /usr/bin/hello.sh
-
-%changelog
