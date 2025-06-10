@@ -1,6 +1,6 @@
 Name:       OBS_playground
 Version:    main
-Release:    1
+Release:    2
 Summary:    Most simple RPM package
 License:    FIXME
 Source:     OBS_playground-%{version}.tar
@@ -14,7 +14,7 @@ Source:     OBS_playground-%{version}.tar
 
 %install
 mkdir -p %{buildroot}/usr/bin/
-install -m 755 hello.sh %{buildroot}/usr/bin/hello.sh
+install -m 700 hello.sh %{buildroot}/usr/bin/hello.sh
 
 %files
 /usr/bin/hello.sh
